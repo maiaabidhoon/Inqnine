@@ -494,6 +494,7 @@ export default function Home() {
               desc: "Selling physical goods deducts them from inventory automatically, so your stock count stays accurate.",
               icon: Boxes,
             },
+            // New Check
             {
               title: "Bill in other currencies",
               desc: "Invoice export clients in USD, EUR, or GBP, with the conversion shown alongside the INR value.",
